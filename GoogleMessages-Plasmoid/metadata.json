@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Idenroad"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Google Messages in a Plasmoid",
+        "Icon": "applications-internet",
+        "Id": "GoogleMessages-Plasmoid",
+        "License": "GPL-2.0+",
+        "Name": "GoogleMessages",
+        "Website": "https://github.com/Idenroad/googlemessages-plasmoid"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
